@@ -1,0 +1,182 @@
+header {
+    background-color: rgb(70, 238, 221);
+    height: 100px;
+    margin: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.shapes {
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.rectangle {
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 0px
+    
+}
+
+.box {
+    border: 5px dotted black;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.rectangle-2 {
+    display: inline-block;
+    background-color: purple;
+    width: 350px;
+    height: 150px;
+    border: 3px solid red;
+    margin-left: 100px;
+}
+
+.box-1 {
+    display: inline-block;
+    background-color: blue;
+    height: 153px;
+    width: 153px;
+    margin-left: 100px;
+    box-shadow: 3px 3px 5px 5px;
+    -moz-box-shadow: 3px 3px 5px 5px;
+    -webkit-box-shadow: 3px 3px 5px 5px;
+    border: 1px transparent black;
+}
+
+.box-2 {
+    display: inline-block;
+    background-color: rgb(219, 144, 156);
+    height: 403px;
+    width: 403px;
+    margin-left: 100px;
+    border: 3px solid black;
+    box-sizing: border-box;
+}
+
+.coal {
+    width: 15px;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+.carrot {
+    width: 25px;
+    margin-left: -55px;
+    margin-bottom: -40px;
+    
+}
+
+.black {
+    width: 15px;
+    margin-left: 30px;
+    
+    
+}
+
+
+.circle {
+    width: 150px;
+    height: 125px;
+    border-radius: 70%;
+    border: 1px solid black;
+    margin-left: 140px;
+    margin-bottom: -1px;
+}
+
+.sphere {
+    width: 225px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 70%;
+    margin-top: -5px;
+    margin-left: 105px;
+    margin-bottom: -17px;
+}
+
+.circle-3 {
+    width: 300px;
+    height: 275px;
+    border: 1px solid black;
+    border-radius: 70%;
+    margin-left: 70px;
+}
+
+.coal-2 {
+    width: 15px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.coal-3 {
+    width: 15px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.coal-4 {
+    margin-left: 100px;
+    width: 15px;
+    margin-top: 30px;
+}
+
+.everything {
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 0px
+    
+}
+
+.boox {
+    height: 350px;
+    width: 350px;
+    border: 3px solid black;
+    background-color: rgb(253, 253, 188);
+    box-sizing: border-box;
+}
+
+.bigcircle {
+    height: 250px;
+    width: 250px;
+    background-color: green;
+    border-radius: 70%;
+    margin-top: -1px;
+    border: 2px solid black;
+}
+
+.smallsquare {
+    height: 175px;
+    width: 175px;
+    background-color: maroon;
+    margin-left: 35px;
+    margin-top: 35px;
+}
+
+.fish {
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    
+}
+
+.smallcircle {
+    height: 100px;
+    width: 100px;
+    border-radius: 70%;
+    background-color: blue;
+    margin-left: 0 25px;
+    margin-bottom: 0 25px;
+}
+
+.winston {
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
